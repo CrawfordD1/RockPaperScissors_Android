@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="app_rules">Rules: Select one of the following (Rock, Paper or Scissors) to play against the computer</string>
+</resources>
